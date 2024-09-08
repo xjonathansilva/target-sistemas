@@ -5,4 +5,4 @@ b) 2, 4, 8, 16, 32, 64, ____ 128 - múltiplicando o número atual por 2
 c) 0, 1, 4, 9, 16, 25, 36, ____ 49 - somando o numero atual + o proximo ímpar sequencial
 d) 4, 16, 36, 64, ____ 100 - sequencial de pares elevados ao quadrado
 e) 1, 1, 2, 3, 5, 8, ____ 13 - aqui vemos a sequencia de fibonacci
-f) 2,10, 12, 16, 17, 18, 19, ____ 200 - são os números que começam com a letra 'D' (essa é pegadinha hahahaha) 
+f) 2,10, 12, 16, 17, 18, 19, ____ 200 - são os números que começam com a letra 'D' (essa é pegadinha hahahaha)  
